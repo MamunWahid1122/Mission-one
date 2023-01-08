@@ -1,0 +1,38 @@
+.header{
+    height: 200px;
+    background-image: url(kaka.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    /* background-position: bottom left; */
+    
+    /* background-image: url('..'); */
+    /* background-image: url(../); */
+    
+}
+h3{
+    color:magenta;
+    text-decoration:underline wavy green;
+}
+p{
+    color:blueviolet;
+}
+.page-title{
+    font-size:50px;
+}
+a{
+    text-decoration: none;
+}
+span{
+    border:1px solid purple;
+    height: 200px;
+    width:100px;
+    margin-top:50px;
+    display: none;
+}
+.blog{
+    background-color: peru;
+    box-shadow: 10px 10px  10px  gray;
+    margin: 100px;
+
+}
